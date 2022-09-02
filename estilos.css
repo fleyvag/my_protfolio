@@ -1,0 +1,17 @@
+*{
+    background-color: #232123;
+}
+.navbar{
+    width: 90%;
+    display:flex;
+    justify-content:space-between;
+    
+}
+.nav_elements {
+    border: 1px solid red;
+    display: flex;
+    
+}
+.nav_elements li {
+    list-style: none
+}
